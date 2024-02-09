@@ -64,5 +64,5 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 - Miejsce na twoje notatki:
 
   ```bash
-  # miejsce na twoje notatki
+  # miejsce na twoje notatki i test
   ```
